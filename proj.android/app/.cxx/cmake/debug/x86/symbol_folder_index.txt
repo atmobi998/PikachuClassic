@@ -1,1 +1,1 @@
-/home/devmob/devmob_dev/Games/PikachuClassic/proj.android/app/build/intermediates/cmake/debug/obj/x86
+/home/devmob/nexuszone/Games/PikachuClassic/proj.android/app/build/intermediates/cmake/debug/obj/x86
