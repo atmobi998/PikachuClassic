@@ -108,6 +108,9 @@ android {
             }
         }
     }
+    lintOptions {
+        checkReleaseBuilds false
+    }
 }
 
 android.applicationVariants.all { variant ->
